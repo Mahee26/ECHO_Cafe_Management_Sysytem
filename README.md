@@ -81,7 +81,7 @@ This sections handles the consumers first order, checks for order validation and
 
 # HOW TO RUN (SETUP INSTRUCTIONS)
 *1.Clone to repository*
-    git clone <https://github.com/Mahee26/VITyarthiproject-Cafe-management-system.git>
+    git clone <https://github.com/Mahee26/ECHO_Cafe_Management_Sysytem>
 
 
 
