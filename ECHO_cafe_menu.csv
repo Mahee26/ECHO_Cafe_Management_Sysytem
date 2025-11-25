@@ -1,0 +1,23 @@
+Type,Item Name,Price (Rs),Customizable
+Coffee,Flat White,230,Yes
+Coffee,Mocha,260,Yes
+Coffee,Piccolo Latte,240,Yes
+Coffee,Cafe Latte,220,Yes
+Coffee,Cappucino,200,Yes
+Coffee,Long Black,180,No
+
+Customization Type,Option Name
+Milk,Soy Milk
+Milk,Almond Milk
+Milk,Skimmed Milk
+Milk,Oat Milk
+Coffee Art,Heart
+Coffee Art,Tulip
+Coffee Art,Rosetta
+Coffee Art,Swan
+
+Complimentary Item,Game Name
+Game,Chess
+Game,Jenga
+Game,Hangman
+Game,Scrabble
